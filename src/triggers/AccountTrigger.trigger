@@ -19,9 +19,9 @@ trigger AccountTrigger on Account (Before Insert, Before Update) {
              if(String.isBlank(acc.Industry) && !String.isBlank(acc.Website)){
 
                 acc.website = '';
-                
-                "First line"
-                "Second line"
+                "this is added by account name 'github.com/gopinath-geek'
+                "this second line is added by account name 'github.com/gopinath-geek' "
+
 }
 }
 }
