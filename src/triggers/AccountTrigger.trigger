@@ -19,7 +19,6 @@ trigger AccountTrigger on Account (Before Insert, Before Update) {
              if(String.isBlank(acc.Industry) && !String.isBlank(acc.Website)){
 
                 acc.website = '';
-       enter the value zzzzzzzz
 }
 }
 }
