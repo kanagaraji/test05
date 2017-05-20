@@ -1,0 +1,17 @@
+{
+    "projectName": "back20_05",
+    "username": "kanagaraj@prisam.com",
+    "id": "568a78a0-3d21-11e7-9348-71b9f8fe4a7c",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://ap4.salesforce.com",
+    "workspace": "C:\\Users\\kanagaraj.PRISAM\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
