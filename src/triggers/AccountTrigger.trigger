@@ -21,6 +21,7 @@ trigger AccountTrigger on Account (Before Insert, Before Update) {
                 acc.website = '';
                 "this is added by account name 'github.com/gopinath-geek'
                 "this second line is added by account name 'github.com/gopinath-geek' "
+
 }
 }
 }
